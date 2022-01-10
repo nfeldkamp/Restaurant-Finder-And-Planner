@@ -1,0 +1,2 @@
+# Restaurant-Finder-And-Planner
+Worked on a team to design and implement a restaurant search and planning web application. Using Java, RESTful APIs, MVC patterns, Spring Boot, and a SQL server database, with HTML, CSS, JavaScript through Vue.js as the front end. The application allows you to invite guests to a specific list of restaurants of your choosing, on a date and time of your choosing to decide where to go for a planned night out. You can also search through a list of restaurants based on location.
